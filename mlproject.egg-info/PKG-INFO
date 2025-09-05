@@ -6,6 +6,7 @@ Author-email: kerobert2010@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: ipykernel
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
